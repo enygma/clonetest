@@ -1,1 +1,6 @@
-<?php echo 'this is a clonetest'; ?>
+<?php
+
+$array = [
+];
+
+?>
