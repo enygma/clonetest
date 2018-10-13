@@ -1,7 +1,7 @@
 <?php
 
 // Include our index page
-require_once __DIR__.'/../index.php';
+require_once __DIR__.'/../step2.php';
 
 use PHPUnit\Framework\TestCase;
 
